@@ -1,6 +1,6 @@
 ---
 
-# 🌀 檔案轉影片魔法工具：讓你的檔案變身視覺藝術！ 🎥
+# 🌀 檔案轉影片魔法工具：讓你的檔案變身視覺藝術！ 🎥(無聊亂做的OWO)
 
 
 你有沒有想過，普通的檔案（像是 `.txt`、`.jpg` 甚至 `.mp3`）可以變成一段炫酷的影片？現在，這個小小的魔法工具將幫你實現這個奇思妙想！✨ **檔案轉影片工具** 能將任何檔案的二進位數據轉換成視覺化的動態效果，讓你的檔案「活起來」，變成一段獨一無二的影片！
@@ -73,21 +73,20 @@ pip install numpy opencv-python
 ### 下載與運行
 1. 複製本專案到你的電腦：
    ```bash
-   git clone https://github.com/your-username/file-to-video-converter.git
+   git clone https://github.com/tntapple219/filevideo_creator.git
    ```
-   （請將 `your-username` 替換為你的 GitHub 用戶名！）
 
 2. 進入專案目錄：
    ```bash
-   cd file-to-video-converter
+   cd filevideo_creator
    ```
 
 3. 運行程式：
    ```bash
-   python file_to_video_converter.py
+   python 神奇的影片產生器.py
    ```
 
-4. 一個漂亮的 GUI 視窗會彈出，開始你的檔案轉影片之旅吧！
+4. 一個漂亮的 GUI 視窗會彈出，開始你的檔案轉影片之旅吧！(沒錯，幹話OWO)
 
 ---
 
