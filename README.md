@@ -1,115 +1,110 @@
 ---
 
-# 🌀 檔案轉影片魔法工具：讓你的檔案變身視覺藝術！ 🎥(無聊亂做的OWO)
+# 🌀 File-to-Video Magic Tool: Transform Your Files into Visual Art! 🎥
 
+Ever wondered if your ordinary files—be it a `.txt` document, a `.jpg` image, or even an `.mp3` audio file—could be transformed into a mesmerizing video? Introducing the **File-to-Video Converter**, a powerful tool that brings this intriguing idea to life! ✨ This application converts the raw binary data of any file into dynamic visual effects, making your digital assets "come alive" on screen in a truly unique way.
 
-你有沒有想過，普通的檔案（像是 `.txt`、`.jpg` 甚至 `.mp3`）可以變成一段炫酷的影片？現在，這個小小的魔法工具將幫你實現這個奇思妙想！✨ **檔案轉影片工具** 能將任何檔案的二進位數據轉換成視覺化的動態效果，讓你的檔案「活起來」，變成一段獨一無二的影片！
-
-無論你是想製作一個技術宅的藝術品，還是單純想用新奇的方式分享檔案，這工具都能滿足你的需求！快來試試，讓你的檔案在螢幕上跳舞吧！💃🕺
-
----
-
-## 🌟 功能亮點：你的檔案，無限可能！
-
-這個工具就像一個魔法棒，將枯燥的二進位數據變成五彩繽紛的視覺效果！以下是它的幾大亮點：
-
-- **五種炫酷模式，讓檔案大變身！**  
-  - 🖼️ **原始顯示**：直接將二進位數據映射成像素，像是檔案的「裸體照」！  
-  - 📈 **波形**：數據化身音波線條，上下跳動，彷彿檔案在唱歌！  
-  - 🌈 **彩虹漸變**：數據影響色彩變化，生成一個隨檔案跳動的彩虹背景！  
-  - 🌀 **噪點漩渦**：數據控制旋渦的旋轉速度，像是檔案在宇宙中旋轉！  
-  - 🌧️ **像素雨**：數據決定雨滴的密度和顏色，讓檔案化為一場數據之雨！
-
-- **數據驅動，獨一無二！**  
-  每個模式都與你的檔案數據深度互動，不同的檔案會生成完全不同的影片效果。你的 `hello.txt` 和 `cat.jpg` 會帶來截然不同的視覺體驗！
-
-- **深色/淺色模式，隨心切換！**  
-  怕晚上用工具刺眼？一鍵切換深色模式，保護你的眼睛，還能提升逼格！😎
-
-- **自訂參數，掌控一切！**  
-  想生成 4K 影片還是小巧的 320x240？想讓影片快如閃電還是慢如詩歌？解析度和 FPS 隨你調整，生成的影片完全聽你的！
-
-- **完成提示，貼心提醒！**  
-  影片生成完成後，會彈出一個提示窗口，告訴你「影片已生成完成」，並提供儲存路徑，永遠不會迷路！
+Whether you're looking to create a piece of tech-inspired art, visualize data, or simply explore novel ways to share files, this tool is designed to spark your imagination and deliver a one-of-a-kind visual experience. Unleash the hidden beauty of your files and watch them dance on screen! 💃🕺
 
 ---
 
-## 🚀 快速開始：三步讓你的檔案變身！
+## 🌟 Key Features: Your Files, Endless Possibilities!
 
-準備好讓你的檔案變成影片了嗎？只需三個簡單步驟：
+This converter acts as a magic wand, transforming mundane binary data into vibrant visual spectacles. Here are some of its standout features:
 
-1. **選擇檔案**  
-   點擊「選擇檔案」按鈕，挑選你想轉換的檔案（任何格式都可以！）。
+* **Five Dynamic Visualization Modes for Stunning Transformations!**
+    * 🖼️ **Raw Pixel Display**: Directly maps binary data to pixel colors, offering a raw, unfiltered visual representation of your file's internal structure.
+    * 📈 **Waveform**: Data is rendered as oscillating lines, akin to audio waveforms, giving the impression of your file "singing" its contents.
+    * 🌈 **Rainbow Gradient**: Data dynamically influences color shifts, generating a mesmerizing rainbow backdrop that pulsates with your file's rhythm.
+    * 🌀 **Noisy Vortex**: Data controls the rotation speed of a dynamic vortex, creating an abstract visual journey as your file spins through a digital cosmos.
+    * 🌧️ **Pixel Rain**: Data dictates the density and color of falling pixels, transforming your file into an immersive downpour of digital rain.
 
-2. **設定模式與參數**  
-   - 選擇「數據模式」：原始二進位、MD5 雜湊還是 SHA256 雜湊？  
-   - 選擇「影片模式」：波形、彩虹、旋渦還是像素雨？  
-   - 調整解析度和 FPS，找到你喜歡的畫質與速度！
+* **Data-Driven Uniqueness**: Each visualization mode deeply interacts with your file's data, ensuring that different files yield entirely distinct video outputs. Your `hello.txt` and `cat.jpg` will result in vastly different, yet equally captivating, visual experiences!
 
-3. **開始轉換**  
-   點擊「開始轉換」，看著進度條跑完，一段獨特的影片就誕生啦！🎉 完成後，工具會告訴你影片的儲存路徑，馬上可以分享給朋友炫耀！
+* **Dark/Light Mode Toggle for Optimal Viewing**: Concerned about eye strain during late-night explorations? Seamlessly switch between dark and light themes to protect your eyes and enhance your UI aesthetic! 😎
+
+* **Customizable Parameters for Full Control**: Whether you aim for stunning 4K visuals or compact 320x240 clips, or desire lightning-fast playback versus a poetic slow-motion, the adjustable resolution and FPS settings put you in complete command of your video's quality and pace.
+
+* **Intuitive Completion Notifications**: Upon video generation, a clear pop-up notification will confirm completion and provide the exact save path, ensuring you never lose track of your unique creations.
 
 ---
 
-## 📦 安裝與運行
+## 🚀 Quick Start Guide: Three Steps to Video Transformation!
 
-想自己動手試試？以下是安裝步驟，簡單到連你家的貓咪都能學會！🐾
+Ready to turn your files into captivating videos? Follow these three simple steps:
 
-### 環境需求
-- Python 3.6 或以上
-- 支援的作業系統：Windows、macOS、Linux
+1.  **Select Your File**
+    Click the "Select File" button and choose any file you wish to transform—all formats are supported!
 
-### 依賴庫
-你需要安裝以下 Python 庫：
-- `tkinter`（通常隨 Python 內建）
-- `numpy`
-- `opencv-python`
+2.  **Configure Modes and Parameters**
+    * Choose your "Data Mode": Raw Binary, MD5 Hash, or SHA256 Hash.
+    * Select your "Video Mode": Waveform, Rainbow, Vortex, or Pixel Rain.
+    * Adjust the resolution and FPS to achieve your desired visual quality and speed!
 
-用以下命令安裝依賴：
+3.  **Initiate Conversion**
+    Click "Start Conversion," watch the progress bar, and witness the birth of a truly unique video! 🎉 Once complete, the tool will provide the video's save path, ready for instant sharing and showcasing!
+
+---
+
+## 📦 Installation & Execution
+
+Eager to try it out yourself? Here's how to get started, simple enough for anyone to follow! 🐾
+
+### System Requirements
+* Python 3.6 or higher
+* Supported Operating Systems: Windows, macOS, Linux
+
+### Required Libraries
+You'll need to install the following Python libraries:
+* `tkinter` (usually built-in with Python)
+* `numpy`
+* `opencv-python`
+
+Install dependencies using pip:
 ```bash
 pip install numpy opencv-python
 ```
 
-### 下載與運行
-1. 複製本專案到你的電腦：
-   ```bash
-   git clone https://github.com/tntapple219/filevideo_creator.git
-   ```
+### Download & Run
+1.  Clone this repository to your local machine:
+    ```bash
+    git clone https://github.com/tntapple219/filevideo_creator.git
+    ```
 
-2. 進入專案目錄：
-   ```bash
-   cd filevideo_creator
-   ```
+2.  Navigate into the project directory:
+    ```bash
+    cd filevideo_creator
+    ```
 
-3. 運行程式：
-   ```bash
-   python 神奇的影片產生器.py
-   ```
+3.  Run the application:
+    ```bash
+    python video_generator_script.py # (You might rename your actual script file to something more descriptive)
+    ```
 
-4. 一個漂亮的 GUI 視窗會彈出，開始你的檔案轉影片之旅吧！(沒錯，幹話OWO)
-
----
-
-## 🎨 效果展示
-
-想知道你的檔案會變成什麼樣？以下是一些簡單的例子：
-
-- **文本檔案 (`hello.txt`)**：在「波形」模式下，數據變成一條平穩的波形線，像是在低語「Hello World」。  
-- **圖片檔案 (`cat.jpg`)**：在「像素雨」模式下，圖片的數據化為五彩雨滴，像是小貓咪在螢幕上撒花！  
-- **音訊檔案 (`song.mp3`)**：在「彩虹漸變」模式下，音樂的節奏影響色彩變化，生成一場視覺與聽覺的雙重饗宴！
-
-試試你的檔案，看看會發生什麼魔法吧！🪄
+4.  A sleek GUI window will appear, marking the beginning of your file-to-video journey!
 
 ---
 
-## 🤝 貢獻與反饋
+## 🎨 Visual Examples
 
-這個工具還在成長中，歡迎你的參與！如果你有以下想法，別猶豫，來一起打造更棒的工具吧：
+Curious about how your files might look? Here are a few illustrative examples:
 
-- **新模式建議**：想看數據變成什麼新奇效果？告訴我你的創意！  
-- **效能優化**：發現程式跑得慢？幫我一起加速吧！  
-- **Bug 回報**：遇到問題？提交 Issue，我會盡快修復！  
+* **Text File (`hello.txt`)**: In "Waveform" mode, the data could appear as a serene oscillating line, silently "whispering" "Hello World."
+* **Image File (`cat.jpg`)**: Under "Pixel Rain" mode, the image data transforms into a cascade of vibrant pixels, resembling a playful cat sprinkling digital flowers across the screen!
+* **Audio File (`song.mp3`)**: In "Rainbow Gradient" mode, the music's rhythm dynamically influences the color shifts, creating a harmonious blend of visual and auditory delight!
 
-🎉 **快來試試吧！讓你的檔案變成一段視覺奇蹟！** 🎉
+Experiment with your own files and discover the unique magic they hold! 🪄
+
+---
+
+## 🤝 Contribution & Feedback
+
+This tool is continuously evolving, and your contributions are highly welcome! If you have any of the following ideas, don't hesitate to help us build an even better tool:
+
+* **New Mode Suggestions**: Have an idea for a novel data visualization effect? Share your creativity!
+* **Performance Optimization**: Noticing slow performance? Help us make it faster!
+* **Bug Reporting**: Encountered an issue? Submit a bug report, and we'll address it promptly!
+
+🎉 **Dive in and try it now! Transform your files into captivating visual wonders!** 🎉
 
 ---
